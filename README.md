@@ -9,9 +9,7 @@ My name is Nic Saliani. I am a novice programmer who is passionate about learnin
 - Python
 
 ⚡ Fun facts:
-- I can snap my fingers around 16 times per second!
 - I like to play classical piano as a hobby.
-- My favorite video games are Terraria, PvZ: GW2, and Civilization 6.
 
 <!--
 **nicsaliani/nicsaliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
