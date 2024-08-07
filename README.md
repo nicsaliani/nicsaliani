@@ -1,7 +1,5 @@
 # About me
 
-My name is Nic Saliani. I am a novice programmer who is passionate about learning new things.
-
 🔭 I’m currently working on:
 - FileFanner - a simplified Windows file explorer made in Python.
 
