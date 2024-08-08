@@ -2,9 +2,11 @@
 
 🔭 I’m currently working on:
 - FileFanner - a simplified Windows file explorer made in Python.
+- Batonna - a drawing app featuring a spinning baton as the brush. Made in Unity for mobile devices.
 
 🌱 I’m currently learning:
 - Python
+- C#
 
 ⚡ Fun facts:
 - I like to play classical piano as a hobby.
