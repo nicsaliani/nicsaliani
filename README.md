@@ -1,10 +1,11 @@
 # About me
 
 🔭 I’m currently working on:
-- FileFanner - a simplified Windows file explorer made in Python.
+- Goaly - a minimalistic and customizable goal-setting app. Made using Google's Flutter framework and written in Dart.
 - Batonna - a drawing app featuring a spinning baton as the brush. Made in Unity for mobile devices.
 
 🌱 I’m currently learning:
+- Dart
 - Python
 - C#
 
