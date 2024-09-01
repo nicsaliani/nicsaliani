@@ -8,6 +8,7 @@
 - Dart
 - Python
 - C#
+- C++
 
 ⚡ Fun facts:
 - I like to play classical piano as a hobby.
