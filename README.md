@@ -1,10 +1,12 @@
 # About me
 
 🔭 I’m currently working on:
+- Musical Meteors - A music education game inspired by Asteroids. Made in Godot.
 - Goaly - a minimalistic and customizable goal-setting app. Made using Google's Flutter framework and written in Dart.
 - Batonna - a drawing app featuring a spinning baton as the brush. Made in Unity for mobile devices.
 
 🌱 I’m currently learning:
+- GDScript
 - Dart
 - Python
 - C#
