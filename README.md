@@ -1,19 +1,15 @@
 # About me
 
-🔭 I’m currently working on:
+PROJECTS:
 - Musical Meteors - A music education game inspired by Asteroids. Made in Godot.
-- Goaly - a minimalistic and customizable goal-setting app. Made using Google's Flutter framework and written in Dart.
-- Batonna - a drawing app featuring a spinning baton as the brush. Made in Unity for mobile devices.
 
-🌱 I’m currently learning:
-- GDScript
-- Dart
+LANGUAGES:
 - Python
-- C#
+- JavaScript
 - C++
-
-⚡ Fun facts:
-- I like to play classical piano as a hobby.
+- C#
+- Dart
+- GDScript
 
 <!--
 **nicsaliani/nicsaliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
