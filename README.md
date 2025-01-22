@@ -1,7 +1,7 @@
 # About me
 
 PROJECTS:
-- Musical Meteors - A music education game inspired by Asteroids. Made in Godot.
+- Musical Meteors - A music education game inspired by Asteroids. Made in Godot. https://store.steampowered.com/app/3404440/Musical_Meteors/?beta=0
 
 LANGUAGES:
 - Python
